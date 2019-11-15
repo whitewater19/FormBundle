@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FormBundle</string>
+    <string name="title1">取餐方式</string>
+    <string name="title2">餐點內容</string>
+    <string name="car1">自取</string>
+    <string name="car2">外送</string>
+    <string name="food1">雞排</string>
+    <string name="food2">鹽酥雞</string>
+    <string name="food3">魷魚腳</string>
+    <string name="food4">甜不辣</string>
+    <string name="food5">薯條</string>
+    <string name="food6">雞心</string>
+    <string name="bnt">送出</string>
+</resources>
